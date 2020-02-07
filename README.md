@@ -7,8 +7,8 @@
 - [ ] Over Temperature Protection
 - [ ] RCPS with Charge Inhibition
 
-## Hardware uses
- |Hardware <?dbfo bgcolor="dark brown"?>             |Specification <?dbfo bgcolor="dark brown"?>|
+## Hardware used
+ |Hardware <?dbfo bgcolor="dark brown"?>             |Description <?dbfo bgcolor="dark brown"?>|
  |---|---|
  |MicroController       | STM32F446RET6 medium-density Arm® Cortex®-M4 32-bit RISC core @180MHz, 512 KB flash,128 KB SRAM|
  |CAN transceiver       |(1)TJA1050, (2) Sn65hvd233|
@@ -28,4 +28,6 @@
 * Battery Guage Meter
     * Capacity estimation using impedance track method for batteries from 3V to 65V
     * Supports battery capacities upto 29Ah, charge and discharge currents upto 32A
-                 
+
+## Block Diagram
+![image](https://github.com/vatsava-rac/Battery_Pack/blob/master/Docs/block%20diagram/battery_blockdiagram_v_1_2.jpg)
