@@ -8,7 +8,9 @@
 - [ ] Over Temperature Protection
 - [ ] RCPS with Charge Inhibition
 
-## Hardware Used
+## Hardware uses
+ |Hardware              |Specification|
+ |---|---|
  |MicroController       | STM32F446RET6 medium-density Arm® Cortex®-M4 32-bit RISC core @180MHz, 512 KB flash,128 KB SRAM|
  |CAN transceiver       |(1)TJA1050, (2) Sn65hvd233|
  |Tamper Sensor         |Light Dependant Resitor|
