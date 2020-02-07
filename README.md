@@ -1,7 +1,6 @@
-# Battery_Pack
+# Battery Pack
 
 ## Features
-
 - [ ] Unique Battery ID
 - [ ] CAN 2.0B Network
 - [ ] Tamper Sensors
