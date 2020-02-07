@@ -9,14 +9,12 @@
 - [ ] RCPS with Charge Inhibition
 
 ## Hardware Used
- * MicroController : STM32F446RET6 medium-density Arm® Cortex®-M4 32-bit RISC core @180MHz, 512 KB flash,128 KB SRAM
- * CAN transceiver: (1)TJA1050, (2) Sn65hvd233
- * Tamper Sensor : Light Dependant Resitor
- * Battery Guage Meter : BQ34Z100 G1
+ |MicroController       | STM32F446RET6 medium-density Arm® Cortex®-M4 32-bit RISC core @180MHz, 512 KB flash,128 KB SRAM|
+ |CAN transceiver       |(1)TJA1050, (2) Sn65hvd233|
+ |Tamper Sensor         |Light Dependant Resitor|
+ | Battery Guage Meter  |BQ34Z100 G1
   
-
 ## Description
-
 * Battery ID LABELLING SCHEME
      
      * ID - RACEA03A001
