@@ -14,7 +14,13 @@
  |CAN transceiver       |(1)TJA1050, (2) Sn65hvd233|
  |Tamper Sensor         |Light Dependant Resitor|
  | Battery Guage Meter  |BQ34Z100 G1
-  
+ 
+## Tool chain
+|Tool <?dbfo bgcolor="dark brown"?>|Description <?dbfo bgcolor="dark brown"?>|
+|---|---|
+|IAR Embedded Workbench|version 8.40.1|
+|STM32 CubeMX|version 5.4|
+
 ## Description
 * Battery ID LABELLING SCHEME
      
