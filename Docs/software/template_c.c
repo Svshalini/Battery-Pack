@@ -1,8 +1,8 @@
 /**
   *****************************************************************************
   * Title                 :   Project Name
-  * Filename              :   file_name.h
-  * Origin Date           :   dd/mm/yyy
+  * Filename              :   file_name.c
+  * Origin Date           :   dd/mm/yyyy
   * Compiler              :   Specify compiler used
   * Hardware              :   Sensors, other hardware used
   * Target                :   Board name
@@ -20,12 +20,7 @@
   *****************************************************************************
   */
 
-/* Define to prevent recursive inclusion */
-#ifndef _FILE_NAME_H
-#define _FILE_NAME_H
-
 /* Includes */
 
 
-#endif
 /************************ (C) COPYRIGHT RACEnergy **********END OF FILE********/
