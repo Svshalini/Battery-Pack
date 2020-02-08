@@ -11,7 +11,7 @@
 ## Hardware used
  |Hardware <?dbfo bgcolor="dark brown"?>             |Description <?dbfo bgcolor="dark brown"?>|
  |---|---|
- |MicroController       | STM32F446RET6 Arm® Cortex®-M4 32-bit RISC core @ 512 KB flash,128 KB SRAM|
+ |MicroController       | STM32F446RET6 Arm® Cortex®-M4 32-bit RISC core @ 24MHz,512 KB flash,128 KB SRAM|
  |CAN transceiver       |TJA1050|
  |Tamper Sensor         |Light Dependant Resistor|
  | Battery Guage Meter  |BQ34Z100-G1|
