@@ -48,4 +48,4 @@
     
 * **SoC**(State of Charge) 
     *  It is the level of charge of an electric battery relative to its capacity.
-    *  Percentage is the units of Soc.
+    *  Percentage is the units of SoC.
