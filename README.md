@@ -9,7 +9,7 @@
 - [ ] BMS - Battery Management System
 
 ## Hardware used
- |Hardware <?dbfo bgcolor="dark brown"?>             |Description <?dbfo bgcolor="dark brown"?>|
+ |Hardware <?dbfo bgcolor="brown"?>             |Description <?dbfo bgcolor="dark brown"?>|
  |---|---|
  |MicroController       | STM32F446RET6 Arm® Cortex®-M4 32-bit RISC core @ 24MHz,512 KB flash,128 KB SRAM|
  |CAN transceiver       |TJA1050|
