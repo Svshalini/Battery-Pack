@@ -40,9 +40,12 @@
     * You can find more about this here. [DATASHEET](http://www.ti.com/lit/ds/symlink/bq34z100-g1.pdf)
     
 * BMS 
-    * It is an electronic system that manages rechargable battery(cell or battery pack), monitoring it's state, protecting the battery from operating outside ot's safe operation area.
+    * It is an electronic system that manages rechargable battery(cell or battery pack), monitoring it's state, protecting the battery from operating outside it's safe operation area.
+    * A battery management system is essentially the “brain” of a battery pack; it measures and reports crucial information for the operation of the battery and also also protects the battery from damage in a wide range of operating conditions. 
+    
 * Soc(State of Charge) 
-    *  It is the level of charge of an electric battery relative to its capacity. Percentage is the units of Soc. Soc of attery pack is equivalent to fuel gauge. 
+    *  It is the level of charge of an electric battery relative to its capacity.
+    *  Percentage is the units of Soc.
 
 ## Block Diagram
 ![image](https://github.com/vatsava-rac/Battery_Pack/blob/master/Docs/block%20diagram/battery_blockdiagram_v_1_2.jpg)
