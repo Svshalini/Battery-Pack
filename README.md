@@ -41,7 +41,7 @@
     * SoC estimation using impedance track method.
       * SoC(State of Charge) is the level of charge of an electric battery relative to its capacity.
       * It is the level of charge of an electric battery relative to its capacity. Percentage is the units of SoC.
-    * Supports I2C interface.Normal current consumption is 145μA-average current
+    * Supports I2C interfacewith normal current consumption 145μA-average current
     * [DATASHEET](http://www.ti.com/lit/ds/symlink/bq34z100-g1.pdf) can be found here. 
     
 * **BMS** 
